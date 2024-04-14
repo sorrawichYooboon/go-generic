@@ -48,7 +48,3 @@ go run main.go
 ## Conclusion
 
 This project serves as a basic demonstration of how to leverage generics in Go to create reusable and type-safe code. While generics are still relatively new in Go, they provide a powerful way to write more flexible and efficient code. As the language continues to evolve, the use of generics is expected to become more prevalent in the Go ecosystem.
-
-```
-
-```
